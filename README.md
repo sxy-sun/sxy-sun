@@ -1,11 +1,26 @@
-### Hi there, I'm Xiaoyu Sun.
-
-## I'm a college student majoring in Computer Science.
-
-- I’m currently learning everything
-- I’m looking forward to learn more about deep learning techniques.
-- 2021 Goals: Have more hands-on projects which robotics related.
-
-
 <!--
-**sxy-sun/sxy-sun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**leeight/leeight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
+### 👋 Hi there! My name is Xiaoyu Sun
+
+I am a college student majoring in Computer Science.
+
+- I’m currently learning everything 🤣
+- I'm currently working on a reserach project related to PSC inspection, by adapting machine learning technique to improve the efficiency of the process of the inspection.
+- I'm also applying to grad school for 2021 fall semester, looking forward to get into a robotics program where I can learn more about robotcis.
+
+### 📫 How to reach me
+
+- Email: [xiaoyu.sun@rutgers.edu](mailto: xiaoyu.sun@rutgers.edu)
