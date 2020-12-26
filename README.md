@@ -23,4 +23,4 @@ I am a college student majoring in Computer Science.
 
 ### 📫 How to reach me
 
-- Email: [xiaoyu.sun@rutgers.edu](mailto: xiaoyu.sun@rutgers.edu)
+- Email: xiaoyu.sun@rutgers.edu
