@@ -13,14 +13,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 👋 Hi there! My name is Xiaoyu Sun
+### Hi there! My name is Xiaoyu Sun
 
 I am a college student majoring in Computer Science.
 
 - I’m currently learning everything 🤣
 - I'm currently working on a reserach project related to PSC inspection, by adapting machine learning technique to improve the efficiency of the process of the inspection.
-- I'm also applying to grad school for 2021 fall semester, looking forward to get into a robotics program where I can learn more about robotcis.
+- I'm also applying to grad school for 2021 fall semester, looking forward to get into a robotics program where I can learn more about it.
 
-### 📫 How to reach me
+### How to reach me
 
 - Email: xiaoyu.sun@rutgers.edu
