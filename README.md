@@ -17,9 +17,7 @@ Here are some ideas to get you started:
 
 I am a college student majoring in Computer Science.
 
-- I’m currently learning everything 🤣
-- I'm currently working on a research project related to PSC inspection, by adapting machine learning techniques to improve the efficiency of the process of the inspection.
-- I'm also applying to grad school for the 2021 fall semester, looking forward to getting into a robotics program where I can learn more about it.
+- I'm currently working on a computer vision project related to railway safety.
 
 ### How to reach me
 
