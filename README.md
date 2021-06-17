@@ -15,10 +15,8 @@ Here are some ideas to get you started:
 
 ### Hi there! My name is Xiaoyu Sun.
 
-I am a college student majoring in Computer Science.
+I am a first year grad student studying robotics.
 
-- I'm currently working on a computer vision project related to railway safety.
 
-### How to reach me
 
-- Email: xiaoyu.sun@rutgers.edu
+
