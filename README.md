@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### Hi there! My name is Xiaoyu Sun.
 
-I am a first year grad student studying robotics.
+I am a first year grad student studying robotics at Umich! 
 
 
 
