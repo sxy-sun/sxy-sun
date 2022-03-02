@@ -15,7 +15,10 @@ Here are some ideas to get you started:
 
 ### Hi there! My name is Xiaoyu Sun.
 
-I am a first year grad student studying robotics at Umich! 
+I am a first-year grad student studying robotics at Umich! I am looking forward to starting to work in the industry after graduating!
+
+Please check my website for my showcases if you are interested! 
+https://sxy-sun.github.io/
 
 
 
