@@ -13,17 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there! My name is Xiaoyu Sun.
-
-I am a first-year grad student studying robotics at Umich! 
-
-I am interested in Deep Learning in Computer Vision, and I have most of my hands-on experience in 2D object detection.
-
-I am looking forward to starting to work in the industry after graduating!
-
-Please check my website for my showcases if you are interested! 
-
-https://sxy-sun.github.io/
+### Hi there!
 
 
 
